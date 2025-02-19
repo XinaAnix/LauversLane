@@ -1,3 +1,4 @@
+#LauversLane
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -99,7 +100,7 @@
     <h1>LauversLane</h1>
 </header>
 <nav>
-    <a href="laufey.html">Home</a>
+    <a href="Laufey.html">Home</a>
     <a href="about.html">About</a>
     <a href="music.html">Music</a>
     <a href="contact.html">Contact</a>
